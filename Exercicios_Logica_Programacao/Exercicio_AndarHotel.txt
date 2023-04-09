@@ -1,0 +1,39 @@
+Precisamos imprimir um número para cada andar de um hotel de 20 andares. Porém, o dono do hotel é supersticioso e optou por não ter um 13ro andar.
+
+Escreva um código que imprima todos os números exceto o número 13.
+
+for AndarHotel in range(0, 20):
+if i != 13:
+              
+print(AndarHotel )
+
+Escreva mais dois códigos que resolvam o mesmo problema, mas dessa vez usando os outros dois tipos de laços de repetição aprendidos.Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
+
+while
+
+Import random
+AndarHotel = random.randint(20,0,-2)
+While(AndarHotel !=13);
+  print(AndarHotel)
+  AndarHotel= random.randint(20,0,-2)
+
+Do While
+
+
+AndarHotel  = 0
+Do{
+    printf("%d", AndarHotel);
+    número = numero + 1;
+} While (numero >0)
+
+
+AndarHotel  = 20
+Import random
+AndarHotel = random.randint(20,0,-2)
+Do{
+    print(AndarHotel)
+  AndarHotel= random.randint(20,0,-2)
+}While(AndarHotel !=13);
+  
+
+

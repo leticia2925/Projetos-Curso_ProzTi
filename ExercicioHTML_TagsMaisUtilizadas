@@ -1,0 +1,43 @@
+Exercicio 1 - HTML
+Instruções do projeto
+Observe as três capturas de tela em anexo. Cada uma delas tem áreas sinalizadas e numeradas, além de um grupo específico de tags HTML logo embaixo.
+
+Em um arquivo aparte, associe cada tag HTML com o respectivo número da área que o representa (Exemplo: 1. footer, 2. input, etc...), suba esse arquivo para algum repositório e compartilhe o link no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+Ilustração 01
+
+1: Head, é a cabeça da página, onde de encontra logo e as partes do menu de paginas.
+
+2:  Body, corpo, onde fica todos os outros componentes da página
+
+3: Header, cabelhaço onde ficam o menus, as páginas de navegação
+
+4: IMG, imagem que pode ser usada atraves do src
+
+5: H1, usado para titulos
+
+6: H2, usado para subtitulos
+
+7: P, Paragrafo usado para exibição de textos.
+
+Ilustração 02
+
+8: Strong, usado para deixard uma parte do texto mais forte
+
+9: Button, usado para cirar botões
+
+10: Um Div, ou um Fieldset, usado para separadas componentes por blocos
+
+11: P, Paragrafo usado para exibição de textos.
+
+Ilustração 03
+
+12: Form, usado para criar campos de formulario
+
+13: Label, usado para texto, com Required para obrigatóriedade
+
+14: Input, usado para insersão de dados
+
+15: Select (option), usado para criar opções em um drop dawn para selecionar
+
+16: Button typu="submit", usado para submeter as informações do formulário.
